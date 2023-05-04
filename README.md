@@ -1,7 +1,9 @@
-#build
-mvn clean install
+##build
+=======
+  mvn clean install
 
-#run spring boot
-mvn clean spring-boot:run
+##run spring boot
+===============
+  mvn clean spring-boot:run
 
 
